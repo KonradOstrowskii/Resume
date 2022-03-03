@@ -1,1 +1,1 @@
-web: gunicorn resume_demo.wsgi
+web: gunicorn RESUME.wsgi
