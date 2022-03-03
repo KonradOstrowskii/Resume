@@ -1,1 +1,1 @@
-web: gunicorn Resume.wsgi
+web: gunicorn main.wsgi
