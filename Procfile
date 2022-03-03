@@ -1,2 +1,2 @@
 web:gunicorn RESUME.wsgi
-web:sh setup.sh 
+web: node index.js
