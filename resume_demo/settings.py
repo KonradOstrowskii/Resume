@@ -22,7 +22,7 @@ SECRET_KEY = 'jEe*)rwD Bw\Dr:2l8MZ3v)Eex817ewZ6I_(f]+w$:F)Vl$W:%o'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['https://konradostrowski.herokuapp.com/']
+ALLOWED_HOSTS = [".herokuapp.com",'https://konradostrowski.herokuapp.com']
 SECURE_CONTENT_TYPE_NOSNIFF = True
 CSRF_COOKIE_SECURE = True
 SESSION_COOKIE_SECURE = True
